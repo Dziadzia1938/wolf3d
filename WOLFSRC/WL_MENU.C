@@ -184,42 +184,42 @@ far NewEmenu[]=
 	{0,"",0}
 #endif
 #else
-	#ifdef SPANISH
-	{1,"Episodio 1\n"
-	   "Fuga desde Wolfenstein",0},
+	#ifdef POLISH
+	{1,"Epizod 1\n"
+	   "Ucieczka z Wolfenstein",0},
 	{0,"",0},
-	{3,"Episodio 2\n"
-		   "Operacion Eisenfaust",0},
+	{3,"Epizod 2\n"
+		   "Zabojcze Maszyny",0},
 	{0,"",0},
-	{3,"Episodio 3\n"
-		   "Muere, Fuhrer, Muere!",0},
+	{3,"Epizod 3\n"
+		   "Operacja: MROCZNA PUSTYNIA",0},
 	{0,"",0},
-	{3,"Episodio 4\n"
-		  "Un Negro Secreto",0},
+	{3,"Epizod 4\n"
+		  "Polowanie na Fuhrera",0},
 	{0,"",0},
-	{3,"Episodio 5\n"
-		  "Huellas del Loco",0},
+	{3,"BONUS A\n"
+		  "Smiertelny Pojedynek",0},
 	{0,"",0},
-	{3,"Episodio 6\n"
-		  "Confrontacion",0}
+	{3,"BONUS B\n"
+		  "Bieg przez Labirynt",0}
 	#else
 	{1,"Episode 1\n"
 	   "Escape from Wolfenstein",0},
 	{0,"",0},
 	{3,"Episode 2\n"
-		   "Operation: Eisenfaust",0},
+		   "Killing Machines",0},
 	{0,"",0},
 	{3,"Episode 3\n"
-		   "Die, Fuhrer, Die!",0},
+		   "Operation: DARK DESERT",0},
 	{0,"",0},
 	{3,"Episode 4\n"
-		  "A Dark Secret",0},
+		  "Hunting for a Fuhrer",0},
 	{0,"",0},
-	{3,"Episode 5\n"
-		  "Trail of the Madman",0},
+	{3,"BONUS GAME A\n"
+		  "Death Match",0},
 	{0,"",0},
-	{3,"Episode 6\n"
-		  "Confrontation",0}
+	{3,"BONUS GAME B\n"
+		  "Maze Run",0}
 	#endif
 #endif
 },
